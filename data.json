@@ -1,0 +1,64 @@
+{
+    "Periods": 3,
+    "Limit on the number of projects per year": 1,
+    "Total budget": 407790913,
+    "The maximum number of basketball courts in the region per year": 4,
+    "The maximum number of basketball courts all types for each region": 5,
+    "Regions": {
+        "Region_1": {
+            "Type of basketball court": {
+                "Type of basketball court_1": {
+                    "Priority": 3,
+                    "cost": 15882074,
+                    "Regional costs": 3424817
+                },
+                "Type of basketball court_2": {
+                    "Priority": 5,
+                    "cost": 19892720,
+                    "Regional costs": 3099341
+                },
+                "Type of basketball court_3": {
+                    "Priority": 7,
+                    "cost": 15987521,
+                    "Regional costs": 4192091
+                }
+            },
+            "Number of players": 3963,
+            "Rank": 4,
+            "Regs budget": 5827884
+        },
+        "Region_2": {
+            "Type of basketball court": {
+                "Type of basketball court_1": {
+                    "Priority": 16,
+                    "cost": 14352038,
+                    "Regional costs": 3075759
+                },
+                "Type of basketball court_2": {
+                    "Priority": 12,
+                    "cost": 12079944,
+                    "Regional costs": 3738422
+                },
+                "Type of basketball court_3": {
+                    "Priority": 13,
+                    "cost": 14485456,
+                    "Regional costs": 5122573
+                }
+            },
+            "Number of players": 5523,
+            "Rank": 4,
+            "Regs budget": 6296763
+        }
+    },
+    "Types of basketball courts": {
+        "Type of basketball court_1": {
+            "Capacity": 94
+        },
+        "Type of basketball court_2": {
+            "Capacity": 103
+        },
+        "Type of basketball court_3": {
+            "Capacity": 117
+        }
+    }
+}
